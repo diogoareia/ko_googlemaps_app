@@ -1,0 +1,117 @@
+{
+    "Country": "Brasil",
+    "Map": {
+        "MapPoints": [
+            {
+                "BackgroundColor": "#EEBE5517",
+                "Description": "Point1",
+                "IconURL": null,
+                "Latitude": -8.057296,
+                "Longitude": -34.884748,
+                "Notification": 0,
+                "PK_ID": "f124ad9a-6c47-4fba-9b54-507dde53b21d",
+                "Unit": "%",
+                "Value": 16.50943396226415
+            },
+            {
+                "BackgroundColor": "#EEBE5517",
+                "Description": "Point2",
+                "IconURL": null,
+                "Latitude": -22.900678,
+                "Longitude": -43.187644,
+                "Notification": 0,
+                "PK_ID": "ee2086b0-d458-4514-8f2a-d7147188a6ad",
+                "Unit": "%",
+                "Value": 23.362445414847162
+            },
+            {
+                "BackgroundColor": "#EEBE5517",
+                "Description": "Point3",
+                "IconURL": null,
+                "Latitude": -22.896102,
+                "Longitude": -43.292366,
+                "Notification": 0,
+                "PK_ID": "78fb6f1b-11d5-4031-af1b-c4ed8ddb8ad4",
+                "Unit": "%",
+                "Value": 19.801980198019802
+            },
+            {
+                "BackgroundColor": "#EEE9751E",
+                "Description": "Point4",
+                "IconURL": null,
+                "Latitude": -19.919983,
+                "Longitude": -43.962029,
+                "Notification": 0,
+                "PK_ID": "60d71cff-2070-48de-8168-f1ad2ae5390d",
+                "Unit": "%",
+                "Value": 33.33333333333333
+            },
+            {
+                "BackgroundColor": "#EEBC3B18",
+                "Description": "Point5",
+                "IconURL": null,
+                "Latitude": -22.899502,
+                "Longitude": -43.180782,
+                "Notification": 0,
+                "PK_ID": "4cdd173b-381f-45eb-814b-4028b5893609",
+                "Unit": "%",
+                "Value": 6.741573033707865
+            },
+            {
+                "BackgroundColor": "#EE68BC45",
+                "Description": "Point6",
+                "IconURL": null,
+                "Latitude": -23.563672,
+                "Longitude": -46.652096,
+                "Notification": 0,
+                "PK_ID": "0a39c549-f9f4-4571-ab62-6ad168dcac1d",
+                "Unit": "%",
+                "Value": 72.72727272727273
+            },
+            {
+                "BackgroundColor": "#EEDC9D13",
+                "Description": "Point7",
+                "IconURL": null,
+                "Latitude": -19.91968,
+                "Longitude": -43.961755,
+                "Notification": 0,
+                "PK_ID": "268befd0-cddd-4e24-b942-576df9575d92",
+                "Unit": "%",
+                "Value": 36.80203045685279
+            },
+            {
+                "BackgroundColor": "#EEBC3B18",
+                "Description": "Point8",
+                "IconURL": null,
+                "Latitude": -23.241346,
+                "Longitude": -51.203156,
+                "Notification": 0,
+                "PK_ID": "c799f8ac-211f-44b0-ae68-d9bc42d9cc62",
+                "Unit": "%",
+                "Value": 12.218649517684888
+            },
+            {
+                "BackgroundColor": "#EEBC3B18",
+                "Description": "Point9",
+                "IconURL": null,
+                "Latitude": -22.901864,
+                "Longitude": -43.1814,
+                "Notification": 0,
+                "PK_ID": "91f56988-edb8-4a54-b384-8f52fd68aac7",
+                "Unit": "%",
+                "Value": 10.934393638170974
+            },
+            {
+                "BackgroundColor": "#EE68BC45",
+                "Description": "Point10",
+                "IconURL": null,
+                "Latitude": -25.75697,
+                "Longitude": -49.73312,
+                "Notification": 0,
+                "PK_ID": "c5f1a6f0-8fda-488b-b4e5-581d15d5188f",
+                "Unit": "%",
+                "Value": 69.49152542372882
+            }
+        ]
+    }
+}
