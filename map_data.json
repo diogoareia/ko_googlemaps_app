@@ -11,7 +11,7 @@
                 "Notification": 0,
                 "PK_ID": "f124ad9a-6c47-4fba-9b54-507dde53b21d",
                 "Unit": "%",
-                "Value": 16.50943396226415
+                "Value": 73.50943396226415
             },
             {
                 "BackgroundColor": "#EEBE5517",
@@ -22,7 +22,7 @@
                 "Notification": 0,
                 "PK_ID": "ee2086b0-d458-4514-8f2a-d7147188a6ad",
                 "Unit": "%",
-                "Value": 23.362445414847162
+                "Value": 83.362445414847162
             },
             {
                 "BackgroundColor": "#EEBE5517",
@@ -55,7 +55,7 @@
                 "Notification": 0,
                 "PK_ID": "4cdd173b-381f-45eb-814b-4028b5893609",
                 "Unit": "%",
-                "Value": 6.741573033707865
+                "Value": 96.741573033707865
             },
             {
                 "BackgroundColor": "#EE68BC45",
@@ -77,7 +77,7 @@
                 "Notification": 0,
                 "PK_ID": "268befd0-cddd-4e24-b942-576df9575d92",
                 "Unit": "%",
-                "Value": 36.80203045685279
+                "Value": 56.80203045685279
             },
             {
                 "BackgroundColor": "#EEBC3B18",
@@ -110,7 +110,7 @@
                 "Notification": 0,
                 "PK_ID": "c5f1a6f0-8fda-488b-b4e5-581d15d5188f",
                 "Unit": "%",
-                "Value": 69.49152542372882
+                "Value": 99.49152542372882
             }
         ]
     }

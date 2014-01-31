@@ -14,9 +14,9 @@
 			if(col <= 50){
 				pin = 'pin_green';
 			}else if (col <= 75){
-				pin = 'pin_green';
-			}else if (col > 75){
 				pin = 'pin_yellow';
+			}else if (col > 75){
+				pin = 'pin_red';
 			}else{
 				pin = 'pin_green';
 			}
